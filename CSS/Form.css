@@ -11,6 +11,7 @@ body{
     align-self: center;
     border-radius: 20px;
     align-content: center;
+    align-self: center;
 }
 
 /*Submit button*/
@@ -38,4 +39,5 @@ body{
 footer{
     background-color: #a8dadc;
     text-align: center;
+    margin-top: 300px;
 }
