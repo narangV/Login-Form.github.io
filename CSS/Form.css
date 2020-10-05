@@ -1,0 +1,41 @@
+body{
+    background-color: #457b9d;
+}
+/*Form container*/
+.container{
+    background-color: #1d3557;
+    padding: 40px;
+    margin: 100px;
+    color: white;
+    width: auto;
+    align-self: center;
+    border-radius: 20px;
+    align-content: center;
+}
+
+/*Submit button*/
+.btn{
+    border-radius: 20px;
+    border-color: turquoise;
+    transition: 0.25s;
+    cursor: pointer;
+    color: white;
+    align-items: center;
+}
+
+/*Hover effects on button*/
+.btn:hover{
+    background-color: #2a9d8f;
+}
+
+/*Button alignment*/
+.btn_div{
+    align-content: center;
+    text-align: center;
+} 
+
+/*Footer styling*/
+footer{
+    background-color: #a8dadc;
+    text-align: center;
+}
